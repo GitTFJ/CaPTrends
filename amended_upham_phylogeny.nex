@@ -1,0 +1,177 @@
+#NEXUS
+[R-package APE, Wed May 18 16:39:03 2022]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 82;
+	TAXLABELS
+		Panthera tigris
+		Panthera onca
+		Panthera uncia
+		Panthera pardus
+		Panthera leo
+		Neofelis diardi
+		Neofelis nebulosa
+		Prionailurus planiceps
+		Prionailurus viverrinus
+		Prionailurus bengalensis
+		Leopardus colocolo
+		Leopardus tigrinus
+		Leopardus guigna
+		Leopardus wiedii
+		Leopardus pardalis
+		Leopardus jacobita
+		Otocolobus manul
+		Felis nigripes
+		Felis chaus
+		Felis margarita
+		Felis silvestris
+		Lynx rufus
+		Lynx lynx
+		Lynx pardinus
+		Lynx canadensis
+		Acinonyx jubatus
+		Puma concolor
+		Herpailurus yagouaroundi
+		Pardofelis marmorata
+		Catopuma badia
+		Catopuma temminckii
+		Leptailurus serval
+		Caracal aurata
+		Caracal caracal
+		Parahyaena brunnea
+		Hyaena hyaena
+		Crocuta crocuta
+		Proteles cristata
+		Ailuropoda melanoleuca
+		Ursus arctos
+		Ursus maritimus
+		Melursus ursinus
+		Helarctos malayanus
+		Ursus americanus
+		Ursus thibetanus
+		Tremarctos ornatus
+		Otocyon megalotis
+		Nyctereutes procyonoides
+		Lycalopex gymnocercus
+		Lycalopex culpaeus
+		Lycalopex griseus
+		Lycalopex vetulus
+		Lycalopex fulvipes
+		Atelocynus microtis
+		Speothos venaticus
+		Cerdocyon thous
+		Lycalopex sechurae
+		Canis adustus
+		Cuon alpinus
+		Canis rufus
+		Canis latrans
+		Canis aureus
+		Canis lupaster
+		Canis lupus
+		Canis simensis
+		Canis mesomelas
+		Chrysocyon brachyurus
+		Dusicyon australis
+		Lycaon pictus
+		Vulpes macrotis
+		Urocyon cinereoargenteus
+		Urocyon littoralis
+		Vulpes velox
+		Vulpes lagopus
+		Vulpes zerda
+		Vulpes cana
+		Vulpes chama
+		Vulpes corsac
+		Vulpes ferrilata
+		Vulpes rueppellii
+		Vulpes vulpes
+		Vulpes pallida
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Panthera tigris,
+		2	Panthera onca,
+		3	Panthera uncia,
+		4	Panthera pardus,
+		5	Panthera leo,
+		6	Neofelis diardi,
+		7	Neofelis nebulosa,
+		8	Prionailurus planiceps,
+		9	Prionailurus viverrinus,
+		10	Prionailurus bengalensis,
+		11	Leopardus colocolo,
+		12	Leopardus tigrinus,
+		13	Leopardus guigna,
+		14	Leopardus wiedii,
+		15	Leopardus pardalis,
+		16	Leopardus jacobita,
+		17	Otocolobus manul,
+		18	Felis nigripes,
+		19	Felis chaus,
+		20	Felis margarita,
+		21	Felis silvestris,
+		22	Lynx rufus,
+		23	Lynx lynx,
+		24	Lynx pardinus,
+		25	Lynx canadensis,
+		26	Acinonyx jubatus,
+		27	Puma concolor,
+		28	Herpailurus yagouaroundi,
+		29	Pardofelis marmorata,
+		30	Catopuma badia,
+		31	Catopuma temminckii,
+		32	Leptailurus serval,
+		33	Caracal aurata,
+		34	Caracal caracal,
+		35	Parahyaena brunnea,
+		36	Hyaena hyaena,
+		37	Crocuta crocuta,
+		38	Proteles cristata,
+		39	Ailuropoda melanoleuca,
+		40	Ursus arctos,
+		41	Ursus maritimus,
+		42	Melursus ursinus,
+		43	Helarctos malayanus,
+		44	Ursus americanus,
+		45	Ursus thibetanus,
+		46	Tremarctos ornatus,
+		47	Otocyon megalotis,
+		48	Nyctereutes procyonoides,
+		49	Lycalopex gymnocercus,
+		50	Lycalopex culpaeus,
+		51	Lycalopex griseus,
+		52	Lycalopex vetulus,
+		53	Lycalopex fulvipes,
+		54	Atelocynus microtis,
+		55	Speothos venaticus,
+		56	Cerdocyon thous,
+		57	Lycalopex sechurae,
+		58	Canis adustus,
+		59	Cuon alpinus,
+		60	Canis rufus,
+		61	Canis latrans,
+		62	Canis aureus,
+		63	Canis lupaster,
+		64	Canis lupus,
+		65	Canis simensis,
+		66	Canis mesomelas,
+		67	Chrysocyon brachyurus,
+		68	Dusicyon australis,
+		69	Lycaon pictus,
+		70	Vulpes macrotis,
+		71	Urocyon cinereoargenteus,
+		72	Urocyon littoralis,
+		73	Vulpes velox,
+		74	Vulpes lagopus,
+		75	Vulpes zerda,
+		76	Vulpes cana,
+		77	Vulpes chama,
+		78	Vulpes corsac,
+		79	Vulpes ferrilata,
+		80	Vulpes rueppellii,
+		81	Vulpes vulpes,
+		82	Vulpes pallida
+	;
+	TREE * UNTITLED = [&R] (((((1:153.5475742,(2:152.9484845,(3:167.6134712,(4:151.5617941,5:139.1542004)71:63.72151856)89:77.66552901)99:87.31940192)98:81.2271312,(6:147.1824979,7:124.7074805)98:214.083523)98:114.991487,(((((8:173.1110501,(9:128.3831848,10:97.92215968)98:100.6146747)98:140.9869901,((11:1.00000025,(12:93.35725909,13:1.00000025)69:65.88563234)67:80.96481183,((14:1.00000025,15:1.00000025)31:1.00000025,16:73.73006609)49:72.10272846)55:113.3766948)11:61.07584031,(17:226.9823777,((18:1.00000025,19:124.8892272)47:105.5948738,(20:91.12625503,21:136.9307652)37:1.00000025)99:115.2469912)34:66.50024573)12:49.0674254,((22:181.4923426,(23:110.1329704,(24:120.1906814,25:123.4911041)47:54.47984191)97:123.8731948)94:104.6596997,((26:222.0360299,(27:187.2161548,28:192.2743099)35:83.3646926)59:97.67593947,((29:102.5826039,30:1.00000025)61:115.5005326,31:137.673098)64:137.5883922)20:53.76571247)23:67.75666102)85:62.2361583,(32:196.6522657,(33:163.6058046,34:196.6632945)66:72.65195584)94:113.155175)69:58.00611013)98:296.0041977,((35:143.9728496,36:143.197545)100:133.9843468,(37:165.6185883,38:228.8577341)58:90.00238513)100:354.0958157)99:284.469022,((39:253.3869679,(((40:83.45727654,41:62.54901329)100:129.4663024,(42:183.1655712,(43:178.9199123,(44:158.3319033,45:156.3487203)52:73.10361484)38:76.3246002)56:71.10028281)100:177.4746513,46:264.5556559)89:96.40617097)100:345.858622,(((47:205.4843639,48:258.2912488)58:112.2649329,(((((49:59.92349704,(50:74.0563683,51:67.53862872)54:66.05377966)62:81.16034484,(52:1.00000025,53:1.00000025)49:94.23751054)44:70.25458981,(54:175.6199741,(55:123.6164664,56:131.0560766)26:60.07079818)7:90.27698995)15:63.04473229,57:89.4432845)29:118.7527011,((((58:230.8579777,(59:120.4456702,60:48.4379909)99:171.8054694)20:106.7984251,(((61:113.5001037,(62:155.5097976,(63:115.3734808,64:77.80631172)92:73.65778114)64:43.96292082)98:101.3281605,65:87.64957908)47:59.60605144,66:176.4477809)48:44.3811228)34:97.38628481,(67:221.7782567,68:223.1690417)71:135.1213076)12:58.99619412,69:190.0401162)27:66.4469041)80:171.3685443)41:86.80905686,(((70:33.1669815,(71:26.41873315,72:210.7624077)83:91.59789502)40:180.9617033,((73:86.55690346,74:58.10120639)56:150.6142277,(((75:154.8442974,76:111.4322789)87:155.2465372,77:132.7464765)16:1.00000025,((78:124.3757843,79:124.6669702)98:133.0300471,(80:96.0673436,81:81.12590048)86:119.7412213)73:105.8355295)17:139.5584928)21:138.0139336)19:124.2163657,82:244.3572017)30:71.71749478)100:423.0348791)100:204.3518797)99;
+END;
