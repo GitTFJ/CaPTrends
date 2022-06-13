@@ -1,0 +1,7 @@
+License
+
+This dataset has a CC BY-NC-ND license, so others can download the dataset, share it with others, use the data for their own research and publish this work, and are permitted to share the CaPTrends data underpinning this research, all providing the authors of CaPTrends are credited. 
+
+However, without prior approval from the CaPTrends authors, this dataset cannot be incorporated into other published  datasets e.g. CaPTrends cannot be merged with other trend datasets and published under a new name.
+
+Finally, this dataset cannot be used for commercial purposes without prior approval for the CaPTrends authors.
