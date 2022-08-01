@@ -1,12 +1,12 @@
 License
 
-This dataset has a CC BY-NC-ND license, so providing the authors of CaPTrends are cited, users can openly use the data for their own work/research, and are also permitted to share the CaPTrends data underpinning this research. For example, users can download the data, use it in analyses, publish the work, and attach all of the data to the work - allowing a completely reproducible work flow.
+This dataset has a CC BY-NC-ND licence, so providing the authors of CaPTrends are cited, users can openly use the data for their own work/research, and are also permitted to share the CaPTrends data underpinning this research. For example, users can download the data, use it in analyses, publish the work, and attach all of the data to the work - allowing a completely reproducible work flow.
 
 However, there are small exceptions:
 
-1) CaPTrends cannot be used for any commercial gain (NC part of license). Our license is strictly non-commercial 
+1) CaPTrends cannot be used for any commercial gain (NC part of licence). Our license is strictly non-commercial 
 
-2) Whilst we allow users to publicly share the CaPTrends data associated with their work, CaPTrends cannot be absorbed into other compilation datasets (ND part of license) unless signing a data agreement with the CaPTrends authors. For example:
+2) Whilst we allow users to publicly share the CaPTrends data associated with their work, CaPTrends cannot be absorbed into other compilation datasets (ND part of licence) unless signing a data agreement with the CaPTrends authors. For example:
 
 Scenario 1 - acceptable use of CaPTrends: A research question is developed that CaPTrends can answer, CaPTrends is downloaded and used, CaPTrends is cited, the users work is published, and the associated CaPTrends data can be linked to this publication
 
@@ -14,4 +14,4 @@ Scenario 2 - unacceptable use of CaPTrends: As part of a data compilation effort
 
 If you fear you fall into a middle ground between these scenarios, or want any help interpreting where you fall, please contact the authors of CaPTrends for advice. 
 
-3) We would request that anyone that uses and publishes CaPTrends data alongside their work, states clearly in their data license that the source of data (CaPTrends) is also cited alongside their own research
+3) We would request that anyone that uses and publishes CaPTrends data alongside their work, states clearly in their data licence that the source of data (CaPTrends) is also cited alongside their own research
